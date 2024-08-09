@@ -13,3 +13,5 @@ Kalkulator BMI (Body Mass Index) adalah aplikasi web yang membantu pengguna untu
 ## Tampilan
 
 Aplikasi ini dirancang dengan tema warna yang dapat disesuaikan berdasarkan jenis kelamin pengguna dan memiliki animasi halus saat memuat hasil serta footer yang menyertakan informasi tambahan.
+
+Link Pages : https://bro299.github.io/kalku-bmi/
